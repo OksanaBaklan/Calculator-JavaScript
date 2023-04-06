@@ -1,3 +1,3 @@
 # Calculator-JavaScript
 
-![Calculator](https://github.com/oxica/Calculator-JavaScript/blob/main/calculator.jpg)
+![Calculator](https://raw.githubusercontent.com/OksanaBaklan/Calculator-JavaScript/main/calculator.jpg)
